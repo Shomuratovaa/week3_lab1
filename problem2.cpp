@@ -2,10 +2,10 @@
 using namespace std;
 
 int main() {
-    cout << "Alijon Aliev" << endl;
-    cout << "233242" << endl;
-    cout << "Queen - The Show Must Go On" << endl;
-    cout << "Titanic" << endl;
+    cout << "Shomuratova Sarvinoz" << endl;
+    cout << "250066" << endl;
+    cout << "sensiz aski neyleyim - guliz ayla" << endl;
+    cout << "Sonyaz" << endl;
     return 0;
 }
 // Created by Programming Exam on 11/09/25.
